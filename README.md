@@ -66,6 +66,9 @@ Voici une description détaillée de chaque mod contenu pour que vous sachiez ce
 ### **14. Fusion**
 - **Description :** Ajoute des outils et mécanismes supplémentaires pour enrichir le gameplay RP et la construction sur le serveur.
 
+### **15. SecurityCraft**
+- **Description :** Ajoute des systèmes de sécurité avancés pour protéger vos constructions : caméras, alarmes, lasers, serrures électroniques et autres mécanismes RP. Indispensable pour le gameplay SemiRP sécurisé.
+
 ---
 
 ## ⬇️ Installation du pack
