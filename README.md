@@ -69,6 +69,9 @@ Voici une description détaillée de chaque mod contenu pour que vous sachiez ce
 ### **15. SecurityCraft**
 - **Description :** Ajoute des systèmes de sécurité avancés pour protéger vos constructions : caméras, alarmes, lasers, serrures électroniques et autres mécanismes RP. Indispensable pour le gameplay SemiRP sécurisé.
 
+### **16. Just Enough Items (JEI)**
+- **Description :** Affiche toutes les recettes et objets du jeu, y compris ceux ajoutés par les mods. Indispensable pour visualiser facilement les craftings et planifier vos constructions.
+
 ---
 
 ## ⬇️ Installation du pack
