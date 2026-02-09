@@ -1,6 +1,6 @@
 # 🌙 LunarisLands – SemiRP (NeoForge)
 
-Bienvenue sur le dépôt officiel des **mods requis** pour le serveur Minecraft  
+Bienvenue sur le dépôt officiel des **mods requis** pour le serveur Minecraft
 **🌙 LunarisLands – SemiRP**.
 
 Ce dépôt contient le **pack de mods obligatoire** permettant de rejoindre le serveur.
@@ -9,11 +9,11 @@ Ce dépôt contient le **pack de mods obligatoire** permettant de rejoindre le s
 
 ## 📌 Informations générales
 
-- **Nom du serveur** : 🌙 LunarisLands – SemiRP  
-- **Type** : NeoForge  
-- **Version Minecraft** : `1.21.4`  
-- **Version NeoForge** : `21.4.156`  
-- **Mods requis** : ✅ 100% obligatoires
+* **Nom du serveur** : 🌙 LunarisLands – SemiRP
+* **Type** : NeoForge
+* **Version Minecraft** : `1.21.4`
+* **Version NeoForge** : `21.4.156`
+* **Mods requis** : ✅ 100% obligatoires
 
 ⚠️ **Sans ces mods, la connexion au serveur est impossible.**
 
@@ -21,93 +21,135 @@ Ce dépôt contient le **pack de mods obligatoire** permettant de rejoindre le s
 
 ## 🧩 Détail du pack de mods
 
-Le pack est fourni sous forme d’un fichier unique `mods.zip`.  
-Voici une description détaillée de chaque mod contenu pour que vous sachiez ce qu’il apporte au serveur :
+Le pack est fourni sous forme d’un fichier unique `mods.zip`.
+Voici une description détaillée de chaque mod contenu afin de comprendre leur utilité sur le serveur :
+
+---
 
 ### **1. Macaw's Bridges**
-- **Description :** Ajoute une variété de ponts décoratifs, permettant de créer des structures élégantes et RP-friendly. Idéal pour relier des bâtiments ou créer des chemins dans des zones surélevées.
+
+* **Description :** Ajoute une grande variété de ponts décoratifs permettant de relier des zones, routes ou bâtiments. Idéal pour des constructions RP réalistes et esthétiques.
 
 ### **2. Macaw's Stairs and Balconies**
-- **Description :** Fournit des escaliers et balcons variés pour personnaliser vos constructions. Parfait pour les maisons RP et les bâtiments complexes.
+
+* **Description :** Fournit des escaliers, balcons et éléments architecturaux variés pour personnaliser vos bâtiments RP et améliorer les détails extérieurs.
 
 ### **3. Macaw's Roofs**
-- **Description :** Permet d’ajouter différents styles de toits, de la tuile classique aux designs plus élaborés, pour rendre vos bâtiments plus immersifs.
+
+* **Description :** Ajoute de nombreux styles de toits (tuiles, pentes, variations) afin de rendre vos constructions plus immersives et cohérentes.
 
 ### **4. Macaw's Doors**
-- **Description :** Ajoute de nouveaux modèles de portes décoratives, adaptées aux constructions RP et aux styles variés de bâtiments.
+
+* **Description :** Propose une large sélection de portes décoratives adaptées à différents styles architecturaux RP.
 
 ### **5. Macaw's Trapdoors**
-- **Description :** Trappes et portes basses, pratiques pour l’esthétique et le gameplay (accès rapide, passages secrets, etc.).
+
+* **Description :** Ajoute des trappes et ouvertures décoratives, utiles aussi bien pour l’esthétique que pour des accès discrets ou passages secrets.
 
 ### **6. Macaw's Fences and Walls**
-- **Description :** Clôtures et murs supplémentaires pour sécuriser et embellir vos zones, adaptés aux jardins, fermes ou quartiers RP.
+
+* **Description :** Clôtures et murs supplémentaires pour délimiter, sécuriser et embellir vos propriétés, fermes et quartiers RP.
 
 ### **7. Macaw's Furniture**
-- **Description :** Meubles et objets décoratifs pour vos intérieurs RP : tables, chaises, étagères, bibliothèques, etc.
+
+* **Description :** Mobilier décoratif pour l’intérieur : tables, chaises, étagères, bibliothèques et autres objets RP.
 
 ### **8. Macaw's Windows**
-- **Description :** Fenêtres variées pour donner du style et de la personnalité à vos bâtiments. Plusieurs formes et tailles pour plus de liberté de construction.
+
+* **Description :** Fenêtres de différentes formes et tailles pour personnaliser l’apparence extérieure de vos bâtiments.
 
 ### **9. Macaw's Lights and Lamps**
-- **Description :** Lampes et luminaires décoratifs pour éclairer vos constructions tout en améliorant l’ambiance RP de vos zones.
 
-### **10. JourneyMap**
-- **Description :** Carte interactive en temps réel avec possibilité de placer des waypoints, explorer facilement le monde et suivre ses déplacements. Indispensable pour la navigation sur le serveur.
+* **Description :** Lampes et éclairages décoratifs permettant d’illuminer vos constructions tout en conservant une ambiance RP réaliste.
 
-### **11. Simple Voice Chat**
-- **Description :** Permet de discuter en voix directement dans le jeu avec spatialisation 3D : la voix varie selon la distance entre les joueurs. Très immersif pour RP.
+---
 
-### **12. SuperMartinjn642's Config Library**
-- **Description :** Bibliothèque de configuration nécessaire pour certains mods du pack. Assure la compatibilité et la stabilité.
+### **10. Rechiseled**
 
-### **13. SuperMartinjn642's Core Lib**
-- **Description :** Librairie centrale requise pour le fonctionnement de plusieurs mods NeoForge. Indispensable pour éviter les crashs et erreurs.
+* **Description :** Ajoute un large éventail de **variantes de blocs existants** (pierre, bois, verre, béton, etc.) pour des constructions plus détaillées, modernes et personnalisées.
 
-### **14. Fusion**
-- **Description :** Ajoute des outils et mécanismes supplémentaires pour enrichir le gameplay RP et la construction sur le serveur.
+### **11. Storage Drawers**
 
-### **15. SecurityCraft**
-- **Description :** Ajoute des systèmes de sécurité avancés pour protéger vos constructions : caméras, alarmes, lasers, serrures électroniques et autres mécanismes RP. Indispensable pour le gameplay SemiRP sécurisé.
+* **Description :** Introduit un système de **stockage optimisé** via des tiroirs pouvant contenir de grandes quantités d’un même item. Parfait pour les bases, fermes et zones de production.
 
-### **16. Just Enough Items (JEI)**
-- **Description :** Affiche toutes les recettes et objets du jeu, y compris ceux ajoutés par les mods. Indispensable pour visualiser facilement les craftings et planifier vos constructions.
+### **12. Sophisticated Backpacks**
+
+* **Description :** Ajoute des **sacs à dos évolués et améliorables**, permettant de transporter plus d’objets grâce à des upgrades (filtres, tri, capacités supplémentaires, etc.).
+
+---
+
+### **13. JourneyMap**
+
+* **Description :** Carte interactive en temps réel avec waypoints, exploration facilitée et suivi des déplacements. Indispensable pour se repérer sur le serveur.
+
+### **14. Simple Voice Chat**
+
+* **Description :** Chat vocal en jeu avec spatialisation 3D. La voix varie selon la distance entre les joueurs, offrant une immersion RP renforcée.
+
+### **15. SuperMartijn642's Config Library**
+
+* **Description :** Bibliothèque de configuration nécessaire au bon fonctionnement de plusieurs mods du pack.
+
+### **16. SuperMartijn642's Core Lib**
+
+* **Description :** Librairie centrale indispensable pour la stabilité et la compatibilité de plusieurs mods NeoForge.
+
+### **17. Fusion**
+
+* **Description :** Améliore l’aspect visuel du jeu grâce à la gestion avancée des textures connectées, idéale pour des constructions plus cohérentes et détaillées.
+
+### **18. SecurityCraft**
+
+* **Description :** Ajoute des systèmes de sécurité avancés : caméras, alarmes, lasers, serrures électroniques et autres mécaniques RP pour protéger vos bases.
+
+### **19. Just Enough Items (JEI)**
+
+* **Description :** Affiche toutes les recettes et objets du jeu, y compris ceux ajoutés par les mods. Indispensable pour le crafting et la planification.
 
 ---
 
 ## ⬇️ Installation du pack
 
-1. Téléchargez le fichier `mods.zip` depuis l’onglet **Releases** du dépôt GitHub.  
-2. Ouvrez votre dossier Minecraft :  
-   - Windows : `%appdata%\.minecraft`  
-   - Linux : `~/.minecraft`  
-   - MacOS : `~/Library/Application Support/minecraft`  
-3. Ouvrez le dossier `mods` et supprimez tout son contenu existant.  
-4. Décompressez `mods.zip` **dans le dossier `mods`**.  
+1. Téléchargez le fichier `mods.zip` depuis l’onglet **Releases** du dépôt GitHub.
+2. Ouvrez votre dossier Minecraft :
+
+   * Windows : `%appdata%\.minecraft`
+   * Linux : `~/.minecraft`
+   * MacOS : `~/Library/Application Support/minecraft`
+3. Ouvrez le dossier `mods` et **supprimez tout son contenu** existant.
+4. Décompressez `mods.zip` **dans le dossier `mods`**.
 5. Lancez Minecraft avec le profil **NeoForge 21.4.156**.
 
 ---
 
 ## 🛠️ Installation via CurseForge
 
-1. Ouvrez l’application **CurseForge**  
-2. Créez un profil personnalisé avec :  
-   - Minecraft `1.21.4`  
-   - NeoForge `21.4.156`  
-3. Lancez-le une fois puis fermez-le  
-4. Ouvrez le dossier du profil → `mods`  
-5. Supprimez tout contenu existant et décompressez `mods.zip`  
+1. Ouvrez l’application **CurseForge**
+2. Créez un profil personnalisé avec :
+
+   * Minecraft `1.21.4`
+   * NeoForge `21.4.156`
+3. Lancez-le une fois puis fermez-le
+4. Ouvrez le dossier du profil → `mods`
+5. Supprimez tout le contenu existant et décompressez `mods.zip`
 6. Relancez Minecraft
+
+---
+
+## 🔗 Lien de téléchargement
+
+👉 [https://github.com/BABSaid/Lunaris-Mods/releases/tag/MiseAJours](https://github.com/BABSaid/Lunaris-Mods/releases/tag/MiseAJours)
 
 ---
 
 ## ⚠️ Mentions légales
 
-- Tous les mods inclus sont la **propriété exclusive de leurs auteurs**.  
-- 🚫 **Redistribution du pack ou des mods interdite** sans autorisation.
+* Tous les mods inclus sont la **propriété exclusive de leurs auteurs respectifs**.
+* 🚫 **Toute redistribution du pack ou des mods est interdite** sans autorisation.
 
 ---
 
 ## 💬 Support
 
-- Vérifiez toujours que vous utilisez la **dernière release** du pack.  
-- Pour toute question, contactez l’équipe officielle du serveur.
+* Vérifiez toujours que vous utilisez la **dernière release** du pack.
+* Pour toute question ou problème, contactez l’équipe officielle du serveur LunarisLands.
